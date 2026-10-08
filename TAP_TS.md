@@ -1,13 +1,15 @@
-#TAP — TimeShift 
+# TAP — TimeShift 
 
-###1. Identificação do Projeto 
+### 1. Identificação do Projeto 
+
 Nome: TimeShift — Sistema Inteligente de Redistribuição do Tempo Digital 
 Área: Tecnologia, Ciência de Dados e Bem-Estar Digital 
 Tipo: Projeto de desenvolvimento de software baseado em dados
 Gerente do Projeto: Kairon Giron 
 Status atual: Planejamento e documentação para desenvolvimento 
 
-###2. Objetivo do Projeto 
+### 2. Objetivo do Projeto 
+
 O TimeShift tem como objetivo desenvolver um sistema inteligente capaz de 
 analisar padrões de comportamento digital e auxiliar o usuário na 
 redistribuição consciente do seu tempo, considerando seus objetivos pessoais 
@@ -25,7 +27,8 @@ tempo de acordo com objetivos definidos pelo próprio usuário, como:
 O sistema deverá atuar como uma ferramenta de consciência e apoio à tomada 
 de decisão, e não como mecanismo de controle ou diagnóstico. 
 
-###3. Situação Atual do Projeto 
+### 3. Situação Atual do Projeto 
+
 O projeto encontra-se em uma etapa posterior à pesquisa e validação 
 experimental. 
 As etapas de investigação relacionadas ao conjunto de dados e à aplicação inicial 
@@ -71,7 +74,8 @@ para a proposta do sistema.
 Esses resultados representam uma associação observada nos dados utilizados e 
 não estabelecem causalidade. 
 
-###4. Justificativa 
+### 4. Justificativa 
+
 A utilização crescente de tecnologias digitais tornou o gerenciamento do tempo 
 uma questão relevante para usuários que precisam conciliar redes sociais, 
 estudos, trabalho, atividades físicas, projetos pessoais e descanso. 
@@ -91,7 +95,8 @@ transformar os resultados obtidos na etapa de pesquisa em uma solução de
 software capaz de aplicar esses conceitos em um contexto de utilização 
 prática. 
 
-###5. Principais Metas do Projeto 
+### 5. Principais Metas do Projeto 
+
 Agora sim, aqui devemos separar o que já foi alcançado do que o projeto 
 pretende alcançar daqui para frente. 
 Meta 1 — Consolidar os resultados da pesquisa 
@@ -139,7 +144,8 @@ Essa etapa será necessária porque um modelo com 96,67% de acurácia não
 significa automaticamente que o produto será útil. 
 Essa distinção precisa permanecer explícita na documentação. 
 
-###6. Entregáveis 
+### 6. Entregáveis 
+
 Documentação 
 • Termo de Abertura do Projeto;  
 • Matriz RACI;  
@@ -164,7 +170,8 @@ Sistema
 • dashboard/visualização;  
 • testes.  
 
-###7. Escopo de Alto Nível 
+### 7. Escopo de Alto Nível 
+
 Dentro do escopo 
 O TimeShift deverá contemplar: 
 • cadastro/autenticação do usuário;  
@@ -188,7 +195,8 @@ Não fará parte da primeira versão:
 • integração com todas as plataformas existentes;  
 • substituição de profissionais de saúde.  
 
-###8. Critérios de Sucesso 
+### 8. Critérios de Sucesso 
+
 O projeto será considerado bem-sucedido quando: 
 1. O sistema estiver funcional.  
 2. O fluxo principal puder ser executado de ponta a ponta.  
@@ -202,7 +210,8 @@ usuário.
 9. A solução puder ser submetida a testes com usuários reais em uma etapa 
 posterior.  
 
-###9. Principais Riscos 
+### 9. Principais Riscos 
+
 Risco 
 Transformar correlação em 
 causalidade 
